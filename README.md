@@ -2,7 +2,7 @@
 <h3 align="center">Estudiando para ser Programador Full-Stack</h3>
 
 
-- 🌱 Acualmente estoy cursando el segundo semestre de la tecnicatura en desarrollo web y aplicaciones digitales **SQL Server,C#, ASP .Net , Javascript, Boostrap**
+- 🌱 Acualmente estoy cursando el tercer semestre de la tecnicatura en desarrollo web y aplicaciones digitales en la institucion Cervantes
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
