@@ -2,9 +2,8 @@
 <h3 align="center">Estudiando para ser Programador Full-Stack</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-- 🎓 &nbsp;Acualmente estoy cursando el tercer semestre de la tecnicatura en desarrollo web y aplicaciones digitales en la institucion Cervantes.
-- 💪 &nbsp;En mi tiempo libre, me dedico a hacer ejercicio y practicar deportes.
-- 💡 &nbsp;Estoy en camino de aprender más sobre Backend, Diseño de Sistemas y Despliegue en la nube.
+- 🎓 &nbsp;Acualmente estoy cursando el cuarto semestre de la tecnicatura en desarrollo web y aplicaciones digitales en la institucion Cervantes.
+
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
