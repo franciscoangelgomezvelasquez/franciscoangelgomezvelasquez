@@ -2,7 +2,12 @@
 <h3 align="center">Estudiando para ser Programador Full-Stack</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-- 🎓 &nbsp;Acualmente estoy cursando el cuarto semestre de la tecnicatura en desarrollo web y aplicaciones digitales en la institucion Cervantes.
+🎓 Estudiante de desarrollo de software
+💻 Enfocado en C# y .NET
+🌐 Desarrollo de aplicaciones web Full Stack
+🗄️ Experiencia trabajando con bases de datos SQL
+🔐 Interesado en seguridad y buenas prácticas
+🚀 Siempre aprendiendo nuevas tecnologías
 
 
 <h3 align="left">Conecta conmigo:</h3>
