@@ -2,12 +2,12 @@
 <h3 align="center">Estudiando para ser Programador Full-Stack</h3>
 <img align="right" height="150" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-🎓 Estudiante de desarrollo de software
-💻 Enfocado en C# y .NET
-🌐 Desarrollo de aplicaciones web Full Stack
-🗄️ Experiencia trabajando con bases de datos SQL
-🔐 Interesado en seguridad y buenas prácticas
-🚀 Siempre aprendiendo nuevas tecnologías
+🎓 Estudiante de desarrollo de software <br>
+💻 Enfocado en C# y .NET <br>
+🌐 Desarrollo de aplicaciones web Full Stack<br>
+🗄️ Experiencia trabajando con bases de datos SQL<br>
+🔐 Interesado en seguridad y buenas prácticas<br>
+🚀 Siempre aprendiendo nuevas tecnologías<br>
 
 
 <h3 align="left">Conecta conmigo:</h3>
